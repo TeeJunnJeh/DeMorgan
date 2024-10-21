@@ -1,0 +1,22 @@
+export const quotesMapping = {
+    'quotes1.jpeg': require('./assets/images/quotes/quotes1.jpeg'),
+    'quotes2.jpeg': require('./assets/images/quotes/quotes2.jpeg'),
+    'quotes3.jpeg': require('./assets/images/quotes/quotes3.jpeg'),
+    'quotes4.jpeg': require('./assets/images/quotes/quotes4.jpeg'),
+    'quotes5.jpeg': require('./assets/images/quotes/quotes5.jpeg'),
+    'quotes6.jpeg': require('./assets/images/quotes/quotes6.jpeg'),
+    'quotes7.jpeg': require('./assets/images/quotes/quotes7.jpeg'),
+    'quotes8.jpeg': require('./assets/images/quotes/quotes8.jpeg'),
+    'quotes9.jpeg': require('./assets/images/quotes/quotes9.jpeg'),
+    'quotes10.jpeg': require('./assets/images/quotes/quotes10.jpeg'),
+    'quotes11.jpeg': require('./assets/images/quotes/quotes11.jpeg'),
+    'quotes12.jpeg': require('./assets/images/quotes/quotes12.jpeg'),
+    'quotes13.jpeg': require('./assets/images/quotes/quotes13.jpeg'),
+    'quotes14.jpeg': require('./assets/images/quotes/quotes14.jpeg'),
+    'quotes15.jpeg': require('./assets/images/quotes/quotes15.jpeg'),
+    'quotes16.jpeg': require('./assets/images/quotes/quotes16.jpeg'),
+    'quotes17.jpeg': require('./assets/images/quotes/quotes17.jpeg'),
+    'quotes18.jpeg': require('./assets/images/quotes/quotes18.jpeg'),
+    'quotes19.jpeg': require('./assets/images/quotes/quotes19.jpeg'),
+  };
+  

@@ -1,0 +1,27 @@
+// imagePath.js
+export const imageMapping = {
+    'ChickenAndScallopRisotto.jpeg': require('./assets/images/main_dish/ChickenAndScallopRisotto.jpeg'),
+    'CrispySoftShellCrab.jpg': require('./assets/images/main_dish/CrispySoftShellCrab.jpg'),
+    'LegOfLamb.jpeg': require('./assets/images/main_dish/LegOfLamb.jpeg'),
+    'LobsterSaffronRisotto.jpeg': require('./assets/images/main_dish/LobsterSaffronRisotto.jpeg'),
+    'TruffleWagyuSteak.jpeg': require('./assets/images/main_dish/TruffleWagyuSteak.jpeg'),
+    'AglioOlio.jpg': require('./assets/images/spaghetti/AglioOlio.jpg'),
+    'FruttiDiMare.jpg': require('./assets/images/spaghetti/FruttiDiMare.jpg'),
+    'PomodoriniBurrata.jpg': require('./assets/images/spaghetti/PomodoriniBurrata.jpg'),
+    'AvocadoDreamCake.jpg': require('./assets/images/dessert/AvocadoDreamCake.jpg'),
+    'DarkChocolateHazelnut.jpg': require('./assets/images/dessert/DarkChocolateHazelnut.jpg'),
+    'CaramelizedVanillaPudding.jpg': require('./assets/images/dessert/CaramelizedVanillaPudding.jpg'),
+    'HoneyGlazedPrawn.jpeg': require('./assets/images/dessert/HoneyGlazedPrawn.jpeg'),
+    'GoldenLonganCheesecake.jpeg': require('./assets/images/dessert/GoldenLonganCheesecake.jpeg'),
+    'Denver.jpg': require('./assets/images/beverage/Denver.jpg'),
+    'CitronFizz.jpg': require('./assets/images/beverage/CitronFizz.jpg'),
+    'LavenderLemonade.jpg': require('./assets/images/beverage/LavenderLemonade.jpg'),
+    'AppleNectar.jpg': require('./assets/images/beverage/AppleNectar.jpg'),
+    'PurpleRain.jpg': require('./assets/images/beverage/PurpleRain.jpg'),
+    'SanFrancisco.jpg': require('./assets/images/beverage/SanFrancisco.jpg'),
+    'BodegasLaHorra.jpg': require('./assets/images/alcohol/BodegasLaHorra.jpg'),
+    'CaleraPinotNoir.jpg': require('./assets/images/alcohol/CaleraPinotNoir.jpg'),
+    'ChateauDeHaete.jpg': require('./assets/images/alcohol/ChateauDeHaete.jpg'),
+    'PartageReganPinotNoir.jpg': require('./assets/images/alcohol/PartageReganPinotNoir.jpg'),
+  };
+  
