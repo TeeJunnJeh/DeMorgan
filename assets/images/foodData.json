@@ -1,0 +1,311 @@
+{
+  "mainDish": [
+    {
+      "id": "1",
+      "name": "Chicken and Scallop Risotto",
+      "subtitle": "with White Wine and Parmesan",
+      "rating": "★★★★☆ (20)",
+      "description": "A rich and creamy risotto made with tender chicken, succulent scallops, white wine, and Parmesan cheese.",
+      "price": "RM 119",
+      "image": "ChickenAndScallopRisotto.jpeg",
+      "reviews": [
+        { "name": "Sophia Anderson", "text": "A delightful and creamy dish with perfect flavors!" },
+        { "name": "Daniel Reynolds", "text": "The risotto was rich and flavorful, but a bit too creamy for my taste." }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Crispy Soft Shell Crab",
+      "subtitle": "with Truffle Aioli",
+      "rating": "★★★★☆ (15)",
+      "description": "Crispy soft shell crab served with a luxurious truffle aioli sauce.",
+      "price": "RM 139",
+      "image": "CrispySoftShellCrab.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "Crispy and delicious! The truffle aioli was a perfect complement." },
+        { "name": "Brandon Porter", "text": "The soft shell crab was crispy and flavorful, but the aioli could use more truffle." }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Leg of Lamb",
+      "subtitle": "with Creamy Mustard and Herb Sauce",
+      "rating": "★★★★☆ (18)",
+      "description": "Tender leg of lamb served with a creamy mustard and herb sauce.",
+      "price": "RM 159",
+      "image": "LegOfLamb.jpeg",
+      "reviews": [
+        { "name": "James Peters", "text": "The lamb was perfectly cooked, and the sauce was rich and savory." },
+        { "name": "Marie Morrison", "text": "Delicious lamb with a creamy sauce, though it was a bit rich." }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lobster and Saffron Risotto",
+      "subtitle": "Elegant and Flavorful",
+      "rating": "★★★★☆ (22)",
+      "description": "Luxurious lobster and saffron risotto with a rich and elegant flavor.",
+      "price": "RM 179",
+      "image": "LobsterSaffronRisotto.jpeg",
+      "reviews": [
+        { "name": "Brandon Porter", "text": "The risotto was flavorful and the lobster was cooked perfectly." },
+        { "name": "Sophia Anderson", "text": "An elegant dish with a beautiful saffron flavor and tender lobster." }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Truffle-Infused Wagyu Steak",
+      "subtitle": "Premium and Decadent",
+      "rating": "★★★★★ (25)",
+      "description": "Premium Wagyu steak infused with truffle for a decadent experience.",
+      "price": "RM 299",
+      "image": "TruffleWagyuSteak.jpeg",
+      "reviews": [
+        { "name": "Daniel Reynolds", "text": "The steak was incredible! The truffle infusion took it to another level." },
+        { "name": "James Peters", "text": "The Wagyu was cooked to perfection, and the truffle flavor was amazing." }
+      ]
+    }
+  ],
+  "spaghetti": [
+    {
+      "id": "6",
+      "name": "Aglio Olio",
+      "subtitle": "Classic Italian Pasta",
+      "rating": "★★★★☆ (12)",
+      "description": "Classic Aglio Olio with garlic, olive oil, and chili flakes.",
+      "price": "RM 69",
+      "image": "AglioOlio.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "Simple yet delicious! The flavors were spot on." },
+        { "name": "James Peters", "text": "A classic Aglio Olio, but it could use a bit more seasoning." }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Frutti di Mare",
+      "subtitle": "Seafood Delight",
+      "rating": "★★★★☆ (20)",
+      "description": "Spaghetti with a medley of seafood including shrimp, mussels, and clams.",
+      "price": "RM 89",
+      "image": "FruttiDiMare.jpg",
+      "reviews": [
+        { "name": "Brandon Porter", "text": "The seafood was fresh, and the pasta was cooked perfectly." },
+        { "name": "Sophia Anderson", "text": "A seafood lover's dream! The pasta had just the right amount of sauce." }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Pomodorini e Burrata",
+      "subtitle": "with Tomato and Cheese",
+      "rating": "★★★★☆ (14)",
+      "description": "Spaghetti with cherry tomatoes and creamy burrata cheese.",
+      "price": "RM 79",
+      "image": "PomodoriniBurrata.jpg",
+      "reviews": [
+        { "name": "Daniel Reynolds", "text": "A delicious combination of flavors! The burrata added a nice creaminess." },
+        { "name": "Marie Morrison", "text": "The pasta was fresh, and the burrata was a great touch." }
+      ]
+    }
+  ],
+  "dessert": [
+    {
+      "id": "9",
+      "name": "Avocado Dream Cake Delight",
+      "subtitle": "Smooth and Creamy texture",
+      "rating": "★★★★☆ (18)",
+      "description": "A smooth and creamy avocado cake topped with a light glaze.",
+      "price": "RM 69",
+      "image": "AvocadoDreamCake.jpg",
+      "reviews": [
+        { "name": "Sophia Anderson", "text": "Unique and delicious! The avocado flavor was subtle but delightful." },
+        { "name": "Daniel Reynolds", "text": "The cake was moist and creamy, with a nice avocado flavor." }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Dark Chocolate Cake",
+      "subtitle": "with Smoked Hazelnut Praline",
+      "rating": "★★★★☆ (22)",
+      "description": "Rich dark chocolate dessert with a smoky hazelnut praline topping.",
+      "price": "RM 89",
+      "image": "DarkChocolateHazelnut.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "Decadent and rich! The hazelnut praline added a fantastic crunch." },
+        { "name": "Brandon Porter", "text": "A luxurious dessert with rich chocolate and a smoky twist." }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Decadent Caramelized Vanilla Bean Pudding",
+      "subtitle": "with Gold Leaf and Sea Salt",
+      "rating": "★★★★★ (25)",
+      "description": "A rich vanilla bean pudding topped with caramel, gold leaf, and a sprinkle of sea salt.",
+      "price": "RM 99",
+      "image": "CaramelizedVanillaPudding.jpg",
+      "reviews": [
+        { "name": "James Peters", "text": "An indulgent treat! The combination of caramel and sea salt was perfect." },
+        { "name": "Sophia Anderson", "text": "The pudding was incredibly creamy, and the gold leaf was a beautiful touch." }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Honey Glazed Prawn",
+      "subtitle": "with Sweet Crotinis",
+      "rating": "★★★★☆ (29)",
+      "description": "Succulent prawns coated in a rich, golden honey glaze, perfectly balanced with hints of garlic, soy, and a touch of citrus.",
+      "price": "RM 99",
+      "image": "HoneyGlazedPrawn.jpeg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "Absolutely amazing! The prawns were cooked to perfection, and the honey glaze had the perfect balance of sweetness and tang." },
+        { "name": "Brandon Porter", "text": "The glaze was just the right amount of sweet, and the garlic crostinis paired perfectly." }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Golden Longan Cheesecake Symphony",
+      "subtitle": "Fruity and Rich",
+      "rating": "★★★★☆ (15)",
+      "description": "Rich cheesecake with a golden longan topping and a hint of citrus.",
+      "price": "RM 89",
+      "image": "GoldenLonganCheesecake.jpeg",
+      "reviews": [
+        { "name": "James Peters", "text": "A delightful cheesecake with a unique longan topping. Very rich and creamy." },
+        { "name": "Marie Morrison", "text": "The longan was a nice touch, though the cheesecake was a bit too sweet for my liking." }
+      ]
+    }
+  ],
+  "beverage": [
+    {
+      "id": "14",
+      "name": "Denver",
+      "subtitle": "Refreshing and Bold",
+      "rating": "★★★★☆ (10)",
+      "description": "A refreshing drink with bold flavors, perfect for a summer day.",
+      "price": "RM 15",
+      "image": "Denver.jpg",
+      "reviews": [
+        { "name": "Sophia Anderson", "text": "Refreshing and perfect for a hot day!" },
+        { "name": "Brandon Porter", "text": "A bold and invigorating beverage." }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Citron Fizz",
+      "subtitle": "Citrusy and Sparkling",
+      "rating": "★★★★☆ (12)",
+      "description": "A sparkling beverage with a zesty citrus flavor.",
+      "price": "RM 15",
+      "image": "CitronFizz.jpg",
+      "reviews": [
+        { "name": "James Peters", "text": "The citrus flavor was fantastic and refreshing." },
+        { "name": "Marie Morrison", "text": "A great drink with just the right amount of fizz." }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Luxury Lavender Lemonade",
+      "subtitle": "Elegant and Refreshing",
+      "rating": "★★★★☆ (8)",
+      "description": "A refreshing lemonade infused with luxurious lavender.",
+      "price": "RM 18",
+      "image": "LavenderLemonade.jpg",
+      "reviews": [
+        { "name": "Daniel Reynolds", "text": "A beautifully flavored lemonade with a subtle lavender touch." },
+        { "name": "James Peters", "text": "The lavender made this lemonade unique and refreshing." }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Majestic Apple Nectar",
+      "subtitle": "Sweet and Fruity",
+      "rating": "★★★★☆ (11)",
+      "description": "Sweet apple nectar with a rich, fruity flavor.",
+      "price": "RM 18",
+      "image": "AppleNectar.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "A sweet and fruity nectar that's perfect for apple lovers." },
+        { "name": "Brandon Porter", "text": "The apple flavor was rich and satisfying." }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Purple Rain",
+      "subtitle": "Classic and Sophisticated",
+      "rating": "★★★★☆ (14)",
+      "description": "A sweet and tangy flavor profile with a fruity twist.",
+      "price": "RM 22",
+      "image": "PurpleRain.jpg",
+      "reviews": [
+        { "name": "James Peters", "text": "A sophisticated take on a classic cocktail." },
+        { "name": "Sophia Anderson", "text": "A delightful and vibrant drink with a perfect balance of sweetness and tartness." }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "San Francisco",
+      "subtitle": "Crisp and Refreshing",
+      "rating": "★★★★☆ (9)",
+      "description": "A crisp and refreshing drink with a unique flavor profile.",
+      "price": "RM 20",
+      "image": "SanFrancisco.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "A refreshing drink with a crisp taste." },
+        { "name": "Daniel Reynolds", "text": "Unique and enjoyable. The flavor was very refreshing." }
+      ]
+    }
+  ],
+  "alcohol": [
+    {
+      "id": "20",
+      "name": "Bodegas La Horra Corimbo 2018",
+      "subtitle": "Full-bodied Red Wine",
+      "rating": "★★★★☆ (16)",
+      "description": "A full-bodied red wine with deep flavors and a smooth finish.",
+      "price": "RM 299",
+      "image": "BodegasLaHorra.jpg",
+      "reviews": [
+        { "name": "James Peters", "text": "A rich and full-bodied wine with complex flavors." },
+        { "name": "Sophia Anderson", "text": "The wine had a smooth finish and deep taste." }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Calera Mt. Harlan Jensen Vineyard Pinot Noir 2020",
+      "subtitle": "Elegant and Smooth",
+      "rating": "★★★★☆ (12)",
+      "description": "An elegant Pinot Noir with smooth tannins and fruity notes.",
+      "price": "RM 349",
+      "image": "CaleraPinotNoir.jpg",
+      "reviews": [
+        { "name": "Marie Morrison", "text": "A beautifully smooth Pinot Noir with lovely fruity notes." },
+        { "name": "Brandon Porter", "text": "The wine was elegant and had a pleasant finish." }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Chateau de Haete Serre (Georges) AOP Cahors 2019",
+      "subtitle": "Rich and Bold",
+      "rating": "★★★★☆ (18)",
+      "description": "A rich and bold red wine with intense flavors and a long finish.",
+      "price": "RM 279",
+      "image": "ChateauDeHaete.jpg",
+      "reviews": [
+        { "name": "Daniel Reynolds", "text": "A bold and rich wine with intense flavors and a great finish." },
+        { "name": "Sophia Anderson", "text": "A very impressive wine with deep, rich flavors." }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Partage Regan Pinot Noir 2018",
+      "subtitle": "Smooth and Fruity",
+      "rating": "★★★★☆ (14)",
+      "description": "A smooth and fruity Pinot Noir with a balanced profile.",
+      "price": "RM 319",
+      "image": "PartageReganPinotNoir.jpg",
+      "reviews": [
+        { "name": "James Peters", "text": "A lovely Pinot Noir with smooth tannins and a fruity character." },
+        { "name": "Marie Morrison", "text": "Well-balanced and enjoyable with a smooth finish." }
+      ]
+    }
+  ]
+}
